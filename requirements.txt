@@ -3,6 +3,6 @@ Flask==0.10
 pymongo==2.5.2
 Werkzeug==0.9.1
 gunicorn==19.7.1
-unicodecsv==0.9.4
+unicodecsv==0.14.1
 celery==3.0.12
 Flask-SQLAlchemy==1.0
